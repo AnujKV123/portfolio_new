@@ -38,7 +38,7 @@ import vitejs from '/public/svg/skills/vitejs.svg';
 import Redux from '/public/svg/skills/redux.svg';
 import Postman from '/public/svg/skills/postman.svg';
 import Jira from '/public/svg/skills/jira.svg';
-import GitHub from '/public/svg/skills/gitHub.svg';
+import GitHub from '/public/svg/skills/github.svg';
 import Node from '/public/svg/skills/node.js.svg';
 import Express from '/public/svg/skills/express.svg';
 
