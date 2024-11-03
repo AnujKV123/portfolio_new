@@ -39,7 +39,7 @@ function ContactForm() {
       setIsLoading(true);
       console.log(process.env)
       const res = await axios.post(
-        `${process.env.NEXT_PUBLIC_API_URL}/contact/create-contact`,
+        `${process.env.NEXT_PUBLIC_API_URL}/api/v1/contact/create-contact`,
         userInput
       );
 
