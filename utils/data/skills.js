@@ -24,7 +24,7 @@ export const skillsData = [
   'Figma',
   'python',
   'django',
-  'Graphql',
+  'GraphQL',
   'C++'
 ]
 

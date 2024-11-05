@@ -12,7 +12,7 @@ export const personalData = {
   twitter: 'https://x.com/Anuj_Verma___',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
   leetcode: "https://leetcode.com/u/AnujKV101/",
-  resume: "https://drive.google.com/file/d/1BOB4NDogyWVhR83aPEK481PqQAvvFpBU/view"
+  resume: "https://drive.google.com/file/d/1hh7cf91DF9k7V7a2jvlgtOeIqAA7Ppig/view?usp=sharing"
 }
 
 // -[#f216e0]

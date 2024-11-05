@@ -152,19 +152,17 @@ function HeroSection() {
                 <span className="text-gray-400">{"'],"}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
-                <span className=" text-white">Familar_with:</span>
+                <span className=" text-white">familiar_with:</span>
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-amber-300">Postgress</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Garphql</span>
+                <span className="text-amber-300">GarphQL</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Redis</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Kubernetes</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Azure</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Prisma</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-amber-300">Golang</span>
                 <span className="text-gray-400">{"', '"}</span>
