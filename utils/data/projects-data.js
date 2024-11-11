@@ -7,7 +7,7 @@ export const projectsData = [
         tools: ['JavaScript', 'Node.js','Express', 'MongoDB', 'React', 'Redux', 'Tailwind', 'Socket.io', 'Shadcn', 'Cloudinary', 'Render', 'Netlify'],
         role: 'Full Stack Developer',
         code: '',
-        demo: 'https://editorx-pro.netlify.app/',
+        demo: 'https://editorx.pro',
     },
     {
         id: 2,
