@@ -25,7 +25,8 @@ export const skillsData = [
   'python',
   'django',
   'GraphQL',
-  'C++'
+  'C++',
+  'jest'
 ]
 
 // AVAILABLE SKILLS

@@ -41,6 +41,7 @@ import Jira from '/public/svg/skills/jira.svg';
 import GitHub from '/public/svg/skills/github.svg';
 import Node from '/public/svg/skills/node.js.svg';
 import Express from '/public/svg/skills/express.svg';
+import jest from '/public/svg/skills/jest.svg';
 
 
 export const skillsImage = (skill) => {
@@ -130,6 +131,8 @@ export const skillsImage = (skill) => {
       return Node;
     case 'express':
       return Express;
+    case 'jest':
+      return jest;
     default:
       break;
   }
