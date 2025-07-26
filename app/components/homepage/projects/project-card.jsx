@@ -64,12 +64,14 @@ function ProjectCard({ project }) {
           </div>
           {project.demo.length > 0 && <div className="ml-4 lg:ml-8 mr-2">
             <span className="text-white">Demo:</span>
-            <span className="text-blue-600"><Link href={project.demo} target='_blank'>{' ' + "Please click here for the demo"}</Link></span>
+            {/* <span className="text-blue-600"><Link href={project.demo} target='_blank'>{' ' + "Please click here for the demo"}</Link></span> */}
+            <span className="text-blue-600"><Link href={project.demo} target='_blank'>{' ' + project.demo}</Link></span>
             <span className="text-gray-400">,</span>
           </div>}
           {project.code.length > 0 && <div className="ml-4 lg:ml-8 mr-2">
             <span className="text-white">Code:</span>
-            <span className="text-blue-600"><Link href={project.code} target='_blank'>{' ' + "Please click here for the source code"}</Link></span>
+            {/* <span className="text-blue-600"><Link href={project.code} target='_blank'>{' ' + "Please click here for the source code"}</Link></span> */}
+            <span className="text-blue-600"><Link href={project.code} target='_blank'>{' ' + project.code}</Link></span>
             <span className="text-gray-400">,</span>
           </div>}
           <div><span className="text-gray-400">{`};`}</span></div>

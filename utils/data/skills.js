@@ -20,10 +20,10 @@ export const skillsData = [
   'Azure',
   'Bootstrap',
   'Docker',
-  'Go',
+  // 'Go',
   'Figma',
-  'python',
-  'django',
+  // 'python',
+  // 'django',
   'GraphQL',
   'C++',
   'jest'
