@@ -24,7 +24,7 @@ export const projectsData = [
     code: "https://github.com/AnujKV123/editorx.pro",
   },
   {
-    id: 3,
+    id: 2,
     name: "Simon Game",
     description:
       "Simon Game built with ReactJS - A classic memory game where players repeat increasingly complex sequences of colors and sounds. Features an interactive UI, responsive design, and smooth animations. Perfect for practicing React state management and event handling!",
@@ -46,29 +46,8 @@ export const projectsData = [
     role: "Full Stack Developer",
     demo: "https://simon-game-new.netlify.app",
   },
-  {
-    id: 4,
-    name: "Simon Game",
-    description:
-      "A comprehensive order management application built with modern React technologies, featuring SKU management, order creation, and order tracking capabilities.",
-    tools: [
-      "TypeScript",
-      "React.js",
-      "Netlify",
-      "Git",
-      "Github",
-      "HTML",
-      "CSS",
-      "Git",
-      "Github",
-      "Custom Components",
-    ],
-    code: "https://github.com/AnujKV123/order-management-system",
-    role: "Frontend Developer",
-    demo: "https://order-management-system-new.netlify.app",
-  },
     {
-    id: 2,
+    id: 3,
     name: "Expense Tracker",
     description:
       "A fully functional expense-tracking web application built with React for the frontend and Supabase for the backend.",
