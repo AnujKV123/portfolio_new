@@ -1,6 +1,34 @@
 export const projectsData = [
   {
     id: 1,
+    name: "pixora.dev",
+    description:
+      "Pixora is an AI-powered application designed to generate, preview, and manage AI-driven applications seamlessly.",
+    tools: [
+      "Next.js",
+      "React.js",
+      "TypeScript",
+      "Tailwind",
+      "Shadcn",
+      "PostgreSQL",
+      "Neon",
+      "Prisma",
+      "TRPC",
+      "Inngest",
+      "TanStack Query",
+      "E2B Sandbox",
+      "OpenAI",
+      "Gemini",
+      "Git",
+      "Github",
+    ],
+    role: "Full Stack Developer",
+    // code: "https://github.com/AnujKV123/expense-tracker",
+    code: " ",
+    demo: "https://www.pixora.dev",
+  },
+  {
+    id: 2,
     name: "editorX.pro",
     description:
       "I designed and developed a full-stack web application featuring a real-time collaborative text editor that enables smooth, multi-user document editing. With secure token-based authentication, users can collaborate seamlessly, with full transparency over edits and reading activities. The built-in auto-save feature prevents data loss by preserving every change instantly. Now live and publicly accessible, this innovative aplication represents the future of collaborative workspaces",
@@ -24,7 +52,7 @@ export const projectsData = [
     code: "https://github.com/AnujKV123/editorx.pro",
   },
   {
-    id: 2,
+    id: 3,
     name: "Simon Game",
     description:
       "Simon Game built with ReactJS - A classic memory game where players repeat increasingly complex sequences of colors and sounds. Features an interactive UI, responsive design, and smooth animations. Perfect for practicing React state management and event handling!",
@@ -45,28 +73,6 @@ export const projectsData = [
     code: "https://github.com/AnujKV123/simon-game",
     role: "Full Stack Developer",
     demo: "https://simon-game-new.netlify.app",
-  },
-    {
-    id: 3,
-    name: "Expense Tracker",
-    description:
-      "A fully functional expense-tracking web application built with React for the frontend and Supabase for the backend.",
-    tools: [
-      "Node.js",
-      "React.js",
-      "TypeScript",
-      "Tailwind",
-      "Vite",
-      "CSS",
-      "PostgreSQL",
-      "Supabase",
-      "Shadcn",
-      "Git",
-      "Github",
-    ],
-    role: "Full Stack Developer",
-    code: "https://github.com/AnujKV123/expense-tracker",
-    demo: "https://rupee-expense-tracker.netlify.app",
   },
 ];
 
