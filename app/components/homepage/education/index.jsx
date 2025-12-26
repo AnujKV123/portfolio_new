@@ -1,11 +1,20 @@
 // @flow strict
+
+import dynamic from "next/dynamic";
 import Image from "next/image";
 
 import { educations } from "@/utils/data/educations";
 import { BsPersonWorkspace } from "react-icons/bs";
-import AnimationLottie from "../../helper/animation-lottie";
-import GlowCard from "../../helper/glow-card";
+// import AnimationLottie from "../../helper/animation-lottie";
+// import GlowCard from "../../helper/glow-card";
 import lottieFile from '/public/lottie/education.json';
+const GlowCard = dynamic(() => import("../../helper/glow-card"), {
+  ssr: false,
+});
+const AnimationLottie = dynamic(
+  () => import("../../helper/animation-lottie"),
+  { ssr: false }
+);
 
 function Education() {
   return (

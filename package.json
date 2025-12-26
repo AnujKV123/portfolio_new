@@ -16,8 +16,8 @@
     "lottie-react": "^2.4.0",
     "next": "^14.2.15",
     "nodemailer": "^6.9.15",
-    "react": "latest",
-    "react-dom": "latest",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
     "react-fast-marquee": "^1.6.2",
     "react-google-recaptcha": "^3.1.0",
     "react-icons": "^4.11.0",
@@ -26,11 +26,11 @@
     "uuid": "^11.0.2"
   },
   "devDependencies": {
-    "autoprefixer": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest",
-    "postcss": "latest",
-    "sass": "^1.69.5",
-    "tailwindcss": "latest"
+    "tailwindcss": "3.4.14",
+    "postcss": "8.4.38",
+    "autoprefixer": "10.4.20",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.15",
+    "sass": "1.69.5"
   }
 }
