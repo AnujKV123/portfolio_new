@@ -23,8 +23,7 @@ export const projectsData = [
       "Github",
     ],
     role: "Full Stack Developer",
-    // code: "https://github.com/AnujKV123/expense-tracker",
-    code: " ",
+    code: "https://github.com/AnujKV123/pixora",
     demo: "https://www.pixora.dev",
   },
   {
@@ -48,7 +47,7 @@ export const projectsData = [
       "firebase",
     ],
     role: "Full Stack Developer",
-    demo: "https://editorx.pro",
+    demo: "https://editorx-pro.vercel.app",
     code: "https://github.com/AnujKV123/editorx.pro",
   },
   {
